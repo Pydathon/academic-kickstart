@@ -15,7 +15,7 @@
 
 [[main]]
   name = "Contact"
-  url = "publications/"
+  url = "publication/"
   weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
