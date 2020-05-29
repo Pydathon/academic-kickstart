@@ -9,14 +9,9 @@
   weight = 10
 
 [[main]]
-  name = "Page_2"
+  name = "Projets"
   url = "post/"
   weight = 20
-
-[[main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 30
 
 [[main]]
   name = "Contact"
